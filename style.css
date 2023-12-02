@@ -1,0 +1,31 @@
+section.assignment{
+    background-color: #305CC6; 
+    padding: 2px 200px 2px 8px;
+}
+
+form{
+    background-color:#f8fafc;
+    margin: 12px;
+    padding: 1px 10px;
+    width: 100%;
+
+}
+
+input.main{
+    width: 90%;
+    padding: 5px;
+}
+
+button.assignment{
+    padding: 1px 35%;
+    background-color:  #305CC6;
+    font-size: 90%;
+    color: #f8fafc;
+    
+
+
+
+    
+    
+
+}
